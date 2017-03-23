@@ -5,6 +5,8 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  title = 'app works!';
+export class AppComponent { //export es igual public en la clase
+  title = 'hola mundo!';
 }
+
+//.ts es type script... 
