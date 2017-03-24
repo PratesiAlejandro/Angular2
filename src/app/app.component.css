@@ -1,5 +1,13 @@
-h1{
+.h{
 	background-color:red;
+	color:white;
+	width: 200px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.e{
+	background-color:blue;
 	color:white;
 	width: 200px;
 	border-radius: 20px;

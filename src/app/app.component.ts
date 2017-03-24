@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent { //export es igual public en la clase
   title = 'hola mundo!';
+
+  titulo = 'Titulo nuevo';
+
 }
 
 //.ts es type script... 
